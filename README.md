@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm vij. I love building intelligent hardware and software and use systems thinking to come up with solutions to real-world problems. Also an artist. 
+I'm vij. I love building intelligent hardware and software solutions to real-world problems. Also an artist. 
