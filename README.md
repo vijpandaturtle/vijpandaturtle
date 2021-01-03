@@ -7,17 +7,25 @@ I'm vij. I'm an Engineer by profession.
 - 😄 My Interests: R&D - Building intelligent software and hardware systems. And anything else that makes me curious :)
 - 📫 You can find me on [GitLab](https://gitlab.com/users/vijpandaturtle) and [LinkedIn](https://www.linkedin.com/in/vijayasriiyer) as well. 
 
-#### What I've done so far ....
+### What I've done so far ....
 
 **Machine Learning**
-- COVID Voice
-- TV Script Generation 
-- Image Classification 
-- Language Translation 
+- [COVID Voice]()
+- [TV Script Generation]() 
+- [Image Classification]() 
+- [Language Translation]() 
+- [Celebrity Face Generation Using GANs]()
 
 **Robotics and Simulation** 
-- Autonomous Robot Localization 
-- Home Service Robot 
-- Map My World Robot 
-- Deep RL Manipulator 
-- Autonomous Rover
+- [Autonomous Robot Localization]() 
+- [Home Service Robot]() 
+- [Map My World Robot]() 
+- [Deep RL Manipulator]() 
+- [Autonomous Rover]()
+- [Follow Me Drone]()
+- [PR2 Robot Perception]()
+
+### Skills
+- Tools - Git, Anaconda, ROS, Gazebo, Unity
+- Languages - HTML/CSS/Javascript, Python, C/C++
+- Frameworks - 
