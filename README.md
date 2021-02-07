@@ -19,7 +19,7 @@ I'm vij. I'm an Engineer by profession.
 
 **Quantum Computing**
 
-[Medical image classification using hybrid quantum neural network]()
+Medical image classification using hybrid quantum neural network
 
 
 ### Research
