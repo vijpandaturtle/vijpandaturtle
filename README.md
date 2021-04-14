@@ -30,4 +30,4 @@ Medical image classification using hybrid quantum neural network
 ### Skills
 - Tools - Git, Anaconda, Jira, AWS, Google Cloud, ROS, Gazebo, Fusion 360, Unity, LaTeX
 - Languages - HTML/CSS/JS, Python, C/C++, C#
-- Frameworks - Bootstrap, Flask, Django, NodeJS, Tensorflow, Keras, PyTorch, Pennylane, Qiskit
+- Frameworks - Bootstrap, Flask, Django, NodeJS, Scikit-learn, Pandas, PySpark, Tensorflow, Keras, PyTorch, Pennylane, Qiskit
