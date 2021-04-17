@@ -37,7 +37,7 @@ Medical image classification using hybrid quantum neural network
 ### Research
 1. [An AI driven Genomic Profiling System and Secure Data Sharing using DLT for cancer patients](https://ieeexplore.ieee.org/document/8973020)
 2. [ Hybrid quantum computing based early detection of skin cancer](http://url310.tandfonline.com/ls/click?upn=odl8Fji2pFaByYDqV3bjGMQo8st9of2228V6AcSFNq3t86qU90pAx-2BEad4OTI0D6sA8oPQ2ZJVN1dPO1Q92cT6uWsFVqYLU9dH3TFkv4UY4-3D49wq_cjuZS4RWd2rmllHwS-2Fk374ljvjO-2BEFqm2bq82rNzqflM6Fj0JXxMFPeu33bkyrBUkQ8mqGq1GwPxmf52s817qGRbMvzCupCUtE6lNIaCeBDOxKg0sZpi1VUUJGtfP73KafLwbR-2Bp-2BSpUcR77BhZ2ln7Gzir3eEcfMSXVpJ1M1-2BdH-2F-2BKteIJZoPmKUQZ2SDagtVOhYq1iBXEIBHNRnbwvAY02VJ6LST1BiMg29Qx-2BLC-2FUzCk81-2Bt1Gaqg-2FjNwsfFWxJOc9MahaeYJXmPjib8Mc-2B004uQRk-2BGsm583o6Qho2o-3D)
-3. [Autonomous Vehicles in a Developing Country : A discussion]()
+3. [Autonomous Vehicles in a Developing Country : A discussion (IEEE IV BROAD Workshop Invited Talk)](https://docs.google.com/presentation/d/e/2PACX-1vTaJWo33Ew_ut4brWYmXTA2xTBvmiM7lc1S38E4lvdtrnYpkYHm0JI7oOXwRheOBeJ006oXHZ_rXVT2/pub?start=false&loop=false&delayms=3000&slide=id.g9557a19c5a_1_444)
 
 ### Skills
 - Tools - Git, Anaconda, Jira, AWS, Google Cloud, ROS, Gazebo, Fusion 360, Unity, LaTeX
