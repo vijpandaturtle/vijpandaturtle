@@ -5,7 +5,7 @@ I'm vij. I'm an Engineer by profession.
 - 🔭 I’m currently working on projects involving Machine Learning in the Classical and Quantum Computing Domain
 - 🌱 I’m currently learning about Systems Thinking. I believe different types of tech are really pieces of a large puzzle. In order to really solve a problem, you need to figure out how to put them together. 
 - 😄 My Interests: R&D - Building intelligent software and hardware systems. (Artificial Intelligence, Quantum Computing, Robotics, Brain Computer Interfaces) And anything else that makes me curious ! I have also done graduate level coursework in public policy, with a specialization in tech and policy. You can find some of my related work [here](https://oneeclectic.substack.com/). 
-- 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle) and [LinkedIn](https://www.linkedin.com/in/vijayasriiyer) and [Medium](https://oneeclectic.medium.com/). 
+- 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://oneeclectic.medium.com/) and [Substack](https://oneeclectic.substack.com/). 
 
 ### What I've done so far ....
 
