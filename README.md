@@ -44,3 +44,10 @@ Medical image classification using hybrid quantum neural network
 - Tools - Git, Anaconda, Jira, AWS, Google Cloud, ROS, Gazebo, Fusion 360, Unity, LaTeX
 - Languages - HTML/CSS/JS, Python, C/C++, C#, SQL
 - Frameworks - Bootstrap, Flask, Django, NodeJS, Scikit-learn, Pandas, PySpark, Tensorflow, Keras, PyTorch, Pennylane, Qiskit
+
+
+<!-- | Machine Learning and Data Science |  |
+| --- | ---- |
+| [COVID Prediction App](https://github.com/vijpandaturtle/covid-voice) | 
+| [TV Script Generation](https://github.com/vijpandaturtle/TV-script-generator) | 
+| [Image Classification](https://github.com/vijpandaturtle/facial-expressions)| -->
