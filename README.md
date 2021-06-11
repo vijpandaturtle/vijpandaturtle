@@ -18,8 +18,8 @@ I'm vij. I'm an Engineer by profession.
 - [Celebrity Face Generation Using GANs](https://github.com/vijpandaturtle/face-generator-GAN)
 - [Human Trafficking Analysis](https://github.com/vijpandaturtle/trafficking-analysis) 
 - [Disaster Response Pipeline](https://github.com/vijpandaturtle/disaster-response-pipeline)
-<!-- - [Recommender System IBM]()
-- [Brain Tumor Classification]()
+- [Recommender System IBM](https://github.com/vijpandaturtle/ibm-recommendation-system)
+<!--- [Brain Tumor Classification]()
  -->
 **Robotics & Simulation** 
 
