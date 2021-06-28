@@ -19,7 +19,7 @@ I'm vij. I'm an Engineer by profession.
 - [Human Trafficking Analysis](https://github.com/vijpandaturtle/trafficking-analysis) 
 - [Disaster Response Pipeline](https://github.com/vijpandaturtle/disaster-response-pipeline)
 - [Brain Tumor Classification]()
-- 
+ 
 **Robotics & Simulation** 
 
 - [Autonomous Robot Localization](https://github.com/vijpandaturtle/where_am_i)
