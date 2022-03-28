@@ -4,7 +4,7 @@ I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpand
 
 - 🔭 I’m currently working on projects involving Machine Learning with a focus on computer vision problems.
 - 🌱 I’m currently learning about Systems Thinking. I believe different types of tech are really pieces of a large puzzle. In order to really solve a problem, you need to figure out how to put them together. 
-- 😄 My Interests: R&D - Building intelligent software and hardware systems. (Applications in robotics, healthcare, neurotech and creativity) I have also done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
+- 😄 My Interests: R&D and Building ML powered products. I have also done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
 - 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/). <!--Check out my newsletter on substack [here](https://thenotsodistantfuture.substack.com/).-->
 
 ### Research
