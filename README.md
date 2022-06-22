@@ -19,9 +19,17 @@ I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpand
 - Languages - HTML/CSS/JS, Python, C++, C#, SQL
 - Frameworks - Bootstrap, Flask, Django, NodeJS, Scikit-learn, Pandas, PySpark, Tensorflow, Keras, PyTorch, Pennylane, Qiskit
 
+### Projects
+| Project Title | Description | Year |
+| --- | ---- | ---- |
+| [COVID Prediction App](https://github.com/vijpandaturtle/covid-voice) | Full stack web app, with a GAN for COVID detection and Linear Regression for risk analysis| 2020 |
+| [Human Trafficking Analysis](https://github.com/vijpandaturtle/trafficking-analysis) | Data analysis for the human trafficking dataset on kaggle | 2021 |
+| [COVID Prediction App](https://github.com/vijpandaturtle/covid-voice) | Full stack web app, with a GAN for COVID detection and Logistic Regression for risk analysis| 2020 |
+| [Brain Tumor Classification](https://github.com/vijpandaturtle/brain-tumor-classification) | Performing classification of brain tumors with a vision transformer | 2021 | 
+| [Event Detection in CCTV Video]()| A system that uses classical ML and image processing to detect violence in surveillance videos | 2021 |
+|[Patient Monitoring Dashboard]()| | 2021|
+|[Stock Price Notifier]()| | 2021|
 
-<!-- | Machine Learning and Data Science |  |
-| --- | ---- |
-| [COVID Prediction App](https://github.com/vijpandaturtle/covid-voice) | 
-| [TV Script Generation](https://github.com/vijpandaturtle/TV-script-generator) | 
-| [Image Classification](https://github.com/vijpandaturtle/facial-expressions)| -->
+
+
+
