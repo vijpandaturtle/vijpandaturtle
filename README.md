@@ -19,7 +19,7 @@ I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpand
 - Languages - HTML/CSS/JS, Python, C++, C#, SQL
 - Frameworks - Bootstrap, Flask, Django, NodeJS, Scikit-learn, Pandas, PySpark, Tensorflow, Keras, PyTorch, Pennylane, Qiskit
 
-### Projects
+<!--### Projects
 | Project Title | Description | Year |
 | --- | ---- | ---- |
 | [COVID Prediction App](https://github.com/vijpandaturtle/covid-voice) | Full stack web app, with a GAN for COVID detection and Linear Regression for risk analysis| 2020 |
@@ -28,7 +28,7 @@ I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpand
 | [Brain Tumor Classification](https://github.com/vijpandaturtle/brain-tumor-classification) | Performing classification of brain tumors with a vision transformer | 2021 | 
 | [Event Detection in CCTV Video]()| A system that uses classical ML and image processing to detect violence in surveillance videos | 2021 |
 |[Patient Monitoring Dashboard]()| | 2021|
-|[Stock Price Notifier]()| | 2021|
+|[Stock Price Notifier]()| | 2021|-->
 
 
 
