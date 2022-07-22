@@ -15,7 +15,7 @@ I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpand
 5. [Quantum Machine Learning concepts and applications](https://research.latinxinai.org/papers/neurips/2020/pdf/JavierOrduz_short.pdf)
 
 ### Skills
-- Tools - Git, Anaconda, Jira, AWS, Google Cloud, ROS, Gazebo, Fusion 360, Unity, LaTeX
+- Tools - Git, Anaconda, Jira, AWS, Google Cloud, ROS, Gazebo, Fusion 360, Unity, LaTeX, Docker
 - Languages - HTML/CSS/JS, Python, C++, C#, SQL
 - Frameworks - Bootstrap, Flask, Django, NodeJS, Scikit-learn, Pandas, PySpark, Tensorflow, Keras, PyTorch, Pennylane, Qiskit
 
