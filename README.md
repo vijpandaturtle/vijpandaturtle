@@ -19,6 +19,8 @@ I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpand
 - Languages - HTML/CSS/JS, Python, C++, C#, SQL
 - Frameworks - Bootstrap, Flask, Django, NodeJS, Scikit-learn, Pandas, PySpark, Tensorflow, Keras, PyTorch, Pennylane, Qiskit
 
+![](https://raw.githubusercontent.com/vijpandaturtle/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 <!--### Projects
 | Project Title | Description | Year |
 | --- | ---- | ---- |
