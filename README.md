@@ -16,22 +16,10 @@ I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpand
 
 ### Skills
 - Tools - Git, Anaconda, Jira, AWS, Google Cloud, ROS, Gazebo, Fusion 360, Unity, LaTeX, Docker
-- Languages - HTML/CSS/JS, Python, C++, C#, SQL
+- Languages - Python, HTML/CSS/JS, C++, C#, SQL
 - Frameworks - Bootstrap, Flask, Django, NodeJS, Scikit-learn, Pandas, PySpark, Tensorflow, Keras, PyTorch, Pennylane, Qiskit
 
 ![](https://raw.githubusercontent.com/vijpandaturtle/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
-<!--### Projects
-| Project Title | Description | Year |
-| --- | ---- | ---- |
-| [COVID Prediction App](https://github.com/vijpandaturtle/covid-voice) | Full stack web app, with a GAN for COVID detection and Linear Regression for risk analysis| 2020 |
-| [Human Trafficking Analysis](https://github.com/vijpandaturtle/trafficking-analysis) | Data analysis for the human trafficking dataset on kaggle | 2021 |
-| [COVID Prediction App](https://github.com/vijpandaturtle/covid-voice) | Full stack web app, with a GAN for COVID detection and Logistic Regression for risk analysis| 2020 |
-| [Brain Tumor Classification](https://github.com/vijpandaturtle/brain-tumor-classification) | Performing classification of brain tumors with a vision transformer | 2021 | 
-| [Event Detection in CCTV Video]()| A system that uses classical ML and image processing to detect violence in surveillance videos | 2021 |
-|[Patient Monitoring Dashboard]()| | 2021|
-|[Stock Price Notifier]()| | 2021|-->
-
 
 
 
