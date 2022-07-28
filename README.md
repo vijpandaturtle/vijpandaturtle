@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpandaturtle.github.io/)
+I'm vij. I'm an Engineer, Graduate Student and Philomath. Visit my website [here.](https://vijpandaturtle.github.io/) 
 
 - 🔭 I’m currently working on projects involving Deep Learning, Computer Vision and NLP.
-- 🌱 I’m currently learning about Systems Thinking. I believe different types of tech are really pieces of a large puzzle. In order to really solve a problem, you need to figure out how to put them together. 
+- 🌱 What I've built so far .. Apps using Deep Learning that
+    * Detect stress from EEG signals from a BCI Headset
+    * Detect falls from video feed
+    * Detect violent activity from CCTV video feed
+    * Recognize emotion from speech
 - 😄 My Interests: R&D and Building ML powered products. I have also done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
 - 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/).
 
