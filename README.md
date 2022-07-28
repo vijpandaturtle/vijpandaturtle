@@ -16,7 +16,7 @@ I'm vij. I'm an Engineer by profession. Visit my website [here.](https://vijpand
 
 ### Skills
 - **Machine Learning** : Python, scikit-learn, pandas, seaborn, sympy, Pyspark, Tensorflow, Keras, PyTorch, Pennylane
-- **Robotics** : ROS, Gazebo, C++, Node-RED,
+- **Robotics** : ROS, Gazebo, C++, Node-RED
 - **Web Development** : HTML/CSS/JS, NodeJS, Flask, Django, SQL, MySQL, Bootstrap, MongoDB
 - **Cloud Computing** : AWS(DynamoDB, IoT Core, EC2, ECS, Kinesis, Sagemaker)
 - **Tools** : Anaconda, Jira, Git, LaTeX
