@@ -3,7 +3,7 @@
 I'm vij. I'm an Engineer, Graduate Student and Philomath. Visit my website [here.](https://vijpandaturtle.github.io/) 
 
 - 🔭 I’m currently working on projects involving Deep Learning, Computer Vision and NLP.
-- 🌱 What I've built so far .. Apps using Deep Learning that
+- 🌱 **What I've built so far** .. apps using Deep Learning that
     * Detect stress from EEG signals from a BCI Headset
     * Detect falls from video feed
     * Detect violent activity from CCTV video feed
