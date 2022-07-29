@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm vij. I'm an Engineer and Learnaholic. Visit my website [here.](https://vijpandaturtle.github.io/) 
+I'm vij. I'm an Engineer, Grad Student@[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/campus/coimbatore/) and Learnaholic. Visit my website [here.](https://vijpandaturtle.github.io/) 
 
 - 🔭 I’m currently working on projects involving Deep Learning, Computer Vision and NLP.
 - 🌱 **What I've built so far** .. apps using Deep Learning that
