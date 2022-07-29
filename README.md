@@ -8,7 +8,7 @@ I'm vij. I'm an Engineer, Grad Student@[Amrita Vishwa Vidyapeetham](https://www.
     * Detect falls from video feed
     * Detect violent activity from CCTV video feed
     * Recognize emotion from speech
-- 😄 My Interests: R&D and Building ML powered products. I have also done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
+- 😄 My Interests: R&D (Computer Vision, Autonomous Driving, Multi-task Learning) and Building ML powered products. I have also done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
 - 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/).
 
 <!--### Research
