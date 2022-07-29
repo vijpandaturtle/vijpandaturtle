@@ -4,7 +4,7 @@ I'm vij. I'm an Engineer, Grad Student@[Amrita Vishwa Vidyapeetham](https://www.
 
 - 🔭 I’m currently working on projects involving Deep Learning, Computer Vision and NLP.
 - 🌱 **What I've built so far** .. apps using Deep Learning that
-    * Detect stress from EEG signals from a BCI Headset
+    * Detect stress using EEG signals from a BCI Headset
     * Detect falls from video feed
     * Detect violent activity from CCTV video feed
     * Recognize emotion from speech
