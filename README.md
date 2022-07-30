@@ -8,7 +8,7 @@ I'm vij. I'm an Engineer, Grad Student@[Amrita Vishwa Vidyapeetham](https://www.
     * Detect falls from video feed (MobileNetv2, PyTorch)
     * Detect violent activity from CCTV video feed (Hummingbird, Scikit-learn)
     * Recognize emotion from speech (PySpark, PyTorch)
-    * Teach a self-driving car to drive in a simulator (CARLA, Reinforcement Learning) (Tensorflow)
+    * Teach a self-driving car to drive in a simulator (CARLA, Tensorflow) 
 - 😄 My Interests: R&D (Computer Vision, Autonomous Driving, Multi-task Learning) and Building ML/AI powered products. I have also done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
 - 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/).
 
