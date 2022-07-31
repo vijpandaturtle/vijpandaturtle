@@ -1,14 +1,30 @@
 # Projects & Experiments
 
 ## 2022
-1. Visual Question Answering
-2. Event Detection Violence
-3. Stress Detection with BCI
-4. Image and Video Superresolution
-5. Fall Detection
-6. Speech Emotion Recognition
-7. Multi-task Learning Autonomous Driving
-8. AWS Smart Sprinkler Management Project
+
+### Visual Question Answering
+- **Description :** Developed a multi-modal question answering model using attention mechanism for an indoor VQA dataset using PyTorch.
+- **Tools Used :** PyTorch, Pillow, OpenCV
+- [Link to code]()
+
+### Event Detection Violence
+- **Description :** 
+- **Tools Used :**
+
+### Stress Detection with BCI
+- **Description :** Developed a multi-modal question answering model using attention mechanism for an indoor VQA dataset using PyTorch.
+- **Tools Used :** PyTorch, Pillow, OpenCV
+- [Link to code]() | [Link to blog]()
+
+### Image and Video Superresolution
+
+### Fall Detection In an Indoor Setting
+
+### Speech Emotion Recognition
+
+### Multi-task Learning Autonomous Driving
+
+### AWS Smart Sprinkler Management Project
 9. RPC Game : Blockchain
 10. Implementing a basic blockchain
 11. Reuters News Classification 
@@ -18,7 +34,6 @@
 2. Human trafficking analysis
 3. Brain tumor classification with Vision Transformers
 4. Article clickbait title classification
-5. Forest Fire Behavior Prediction
 6. Heuristic Based Shopping List curation
 7. DStar Algorithm for Robot Navigation
 8. Gradient Descent vs Newton's Method
