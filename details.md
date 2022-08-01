@@ -36,8 +36,8 @@
 
 ### Multi-task Learning Autonomous Driving
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** 
-- **Tools Used :**
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
 
 ### AWS Smart Sprinkler Management Project
 - **Category :** Cloud Computing
@@ -45,26 +45,72 @@
 - **Tools Used :** AWS(IoT Core, S3, Kinesis, DynamoDB, SNS, Cloudformation)
 
 ### RPS Game : Blockchain
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
 
 ### Implementing a basic blockchain
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
 
 ## 2021 
 
 ### Human trafficking analysis
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Tweet Sentiment Analysis
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Brain tumor classification with Vision Transformers
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Article clickbait title classification
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Heuristic Based Shopping List curation
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### DStar Algorithm for Robot Navigation
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Gradient Descent vs Newton's Method
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Smart Home MQTT
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### AWS Patient Monitoring
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### AWS Stock Price Notifier
 
 ## 2020 
 ### Quantum Machine Learning Convolutional neural network
 ### Epileptic Seizure Detection
+
 ### COVID Voice Bot
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
 
 ## 2019
 1. Fetal Heart Segmentation
@@ -81,12 +127,43 @@
 
 ## 2018
 ### Facial Expression Classification
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Script Generation RNN
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Celebrity Face Generation GAN
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Neural Translation RNN Seq2Seq
-### Mars Rover Computer Vision
-### Robot Arm Pick and Place
-### PR2 Robot Perception
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
+### Mars Rover Computer Vision - Search, Sample, Return
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
+### Robot Arm Pick and Place Kinematics
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
+### 3D Robot Perception
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
+
 ### Follow Me Drone
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Tools Used :** PyTorch
 
 
