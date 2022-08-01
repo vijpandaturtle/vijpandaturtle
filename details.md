@@ -126,44 +126,44 @@
 ### Deep RL Manipulator
 
 ## 2018
-### Facial Expression Classification
+
+### Mars Rover Computer Vision - Search, Sample, Return
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Used various computer vision techniques to navigate martian environment in simulation and collect samples autonomously with a rover.
+- **Tools Used :** OpenCV, Unity
+
+### Robot Arm Pick and Place Kinematics
+- **Category :** Robotics, Mathematics
+- **Description :** Implemented forward and inverse kinematics for a 3DOF Kuka arm robot arm to teach it to pick and place items in a scene.
+- **Tools Used :** ROS, Gazebo, Sympy
+
+### 3D Robot Perception
+- **Category :** Machine Learning, Computer Vision
+- **Description :** Implemented a 3D point-cloud perception pipeline in ROS with the PR2 Robot to recognize objects in a scene using color-histograms and an SVM.
+- **Tools Used :** Point Cloud Library (PCL), Scikit-learn, ROS, Gazebo
+
+### Follow Me Drone
+- **Category :** Deep Learning, Computer Vision
+- **Description :** Built a fully convolution neural network (FCNN) to segment a target in a crowded scene. Validated the algorithm on a drone simulator with synthetic environment.
+- **Tools Used :** Tensorflow, Keras, Unity
+
+### Facial Expression Classification
+- **Category :** Deep Learning
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Tools Used :** Tensorflow Contrib
 
 ### Script Generation RNN
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Tools Used :** Tensorflow Contrib
 
 ### Celebrity Face Generation GAN
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Tools Used :** Tensorflow Contrib
 
 ### Neural Translation RNN Seq2Seq
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
-
-### Mars Rover Computer Vision - Search, Sample, Return
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
-
-### Robot Arm Pick and Place Kinematics
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
-
-### 3D Robot Perception
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
-
-### Follow Me Drone
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
-
+- **Tools Used :** Tensorflow Contrib
 
