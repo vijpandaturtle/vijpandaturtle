@@ -8,6 +8,18 @@
 - **Tools Used :** Brainflow, Streamlit, PyTorch, AWS (IoT Core, Sagemaker, Kinesis, DynamoDB, Lambda), Spotipy
 - [Link to code]() | [Link to blog]()
 
+### Fall Detection In an Indoor Setting
+- **Category :** Deep Learning, Computer Vision
+- **Description :** Built an end-to-end fall detection system using PyTorch and OpenCV. Trained transfer learning models like MobileNet and EfficientNet on a custom dataset with an accuracy of 90%.
+- **Tools Used :** PyTorch, OpenCV
+- [Link to code]() | [Link to blog]()
+
+### Speech Emotion Recognition
+- **Category :** Deep Learning, Machine Learning, Big Data
+- **Description :** Built a front-end to push real-time audio to the cloud via a Kinesis stream. Developed a scalable PySpark pipeline to classify streaming audio data from Kinesis into different emotion categories.
+- **Tools Used :** PySpark, MLLib, PyTorch, Librosa
+- [Link to code]()
+
 ### Event Detection Violence
 - **Category :** Machine Learning, Computer Vision
 - **Description :** Detecting violent activity from CCTV footage with tree-based ensemble models. Used hummingbird library to convert model into a tensor representation and speed up inference time.
@@ -23,16 +35,7 @@
 - **Category :** Deep Learning, Generative Models
 - **Description :** Trained a custom webcam dataset to do real-time superresolution. 
 - **Tools Used :** PyTorch, OpenCV, Pillow
-
-### Fall Detection In an Indoor Setting
-- **Category :** Deep Learning, Computer Vision
-- **Description :** Built an end-to-end fall detection system using PyTorch and OpenCV. Trained transfer learning models like MobileNet and EfficientNet on a custom dataset with an accuracy of 90%.
-- **Tools Used :** PyTorch, OpenCV
-
-### Speech Emotion Recognition
-- **Category :** Deep Learning, Machine Learning, Big Data
-- **Description :** Built a front-end to push real-time audio to the cloud via a Kinesis stream. Developed a scalable PySpark pipeline to classify streaming audio data from Kinesis into different emotion categories.
-- **Tools Used :** PySpark, MLLib, PyTorch, Librosa
+- [Link to code]()
 
 ### Multi-task Learning Autonomous Driving
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
@@ -44,7 +47,7 @@
 - **Description :** Built a cloud-based pipeline for a smart sprinkler management system using AWS Services. Simulated control of 5 sprinklers based on the readings of 20 sensors at multiple locations.
 - **Tools Used :** AWS(IoT Core, S3, Kinesis, DynamoDB, SNS, Cloudformation)
 
-### RPS Game : Blockchain
+<!-- ### RPS Game : Blockchain
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
@@ -53,13 +56,15 @@
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
+ -->
 
 ## 2021 
 
 ### Human trafficking analysis
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Description :** Performed comprehensive data analysis for the human trafficking dataset on kaggle
+- **Tools Used :** Pandas, Plotly, Seaborn, Matplotlib
+- [Link to code]() | [Link to blog]()
 
 ### Tweet Sentiment Analysis
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
@@ -70,16 +75,19 @@
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
+- - [Link to code]()
 
 ### Article clickbait title classification
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
+- [Link to code]()
 
 ### Heuristic Based Shopping List curation
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
+- [Link to code]()
 
 ### DStar Algorithm for Robot Navigation
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
@@ -87,37 +95,53 @@
 - **Tools Used :** PyTorch
 
 ### Gradient Descent vs Newton's Method
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Category :** Mathematics, Optimization
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
+- - [Link to code]()
 
 ### Smart Home MQTT
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Category :** Cloud Computing, IoT
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
 
 ### AWS Patient Monitoring
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Category :** Cloud Computing
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
 
-### AWS Stock Price Notifier
+<!--### AWS Stock Price Notifier-->
 
 ## 2020 
 ### Quantum Machine Learning Convolutional neural network
+- **Category :** Deep Learning, Quantum Machine Learning, Computer Vision
+- **Description :** Implemented a custom quantum convolutional filter with quantum circuits for image classification.
+- **Tools Used :** PyTorch, Tensorflow, Pennylane
+- [Link to code]() | [Link to report]()
+
 ### Epileptic Seizure Detection
+- **Category :** Deep Learning, Signal Processing
+- **Description :** Implemented a siamese neural network for epileptic seizure detection using a private EEG multi-channel EEG dataset
+- **Tools Used :** Tensorflow
+- [Link to code]()
 
 ### COVID Voice Bot
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Category :** Machine Learning, Deep Learning, Computer Vision
+- **Description :** Built an ML powered web app, to determine the likelihood of a person having COVID based on their vital parameters. Introduced a GAN based classification model and combined the predictions of the regression model with a chest x-ray classification model to provide a result.
+- **Tools Used :** Tensorflow, SQLite, Django, Scikit-learn
+- [Link to code]()
 
 ## 2019
-1. Fetal Heart Segmentation
-2. OpenAI Gym Reinforcement learning
-3. Behavioral cloning
-4. DDQN Training
-5. SAC and DDPG
+
+### Fetal Heart Segmentation
+- **Category :** Deep Learning, Computer Vision, Medical Imaging
+- **Description :** Implemented a fetal heart segmentation model on real-world ultrasound data with the U-Net algorithm.
+- **Tools Used :** Tensorflow, OpenCV 
+
+3. OpenAI Gym Reinforcement learning
+4. Behavioral cloning
+5. DDQN Training
+6. SAC and DDPG
 
 ## 2018
 ### Where Am I ? Robot Localization
