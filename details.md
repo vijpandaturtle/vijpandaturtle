@@ -121,35 +121,54 @@
 
 ## 2018
 ### Where Am I ? Robot Localization
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Category :** Robotics, Computer Vision
 - **Description :** Implemented a ROS pipeline to localize a custom robot in a synthetic indoor environment with the AMCL (Adaptive Monte Carlo Localization) algorithm.
 - **Tools Used :** ROS, Gazebo
+- [Link to code]() | [Link to report]()
 
 ### Map my world : 3D Visual SLAM
+- **Category :** Robotics, Computer Vision
+- **Description :** Built a home service robot using 3D visual SLAM (graph SLAM) that creates a mapped 3D environment of a room. 
+- **Tools Used :** ROS, Gazebo
+- [Link to code]() | [Link to report]()
+
 ### Home Service Robot
+- **Category :** Robotics, Computer Vision, SLAM, Path Planning
+- **Description :** Implemented a ROS pipeline to perform localization, 2D graph SLAM and path finding and planning using the Djikstra algorithm. The robot is able to transport objects from the source to the destination autonomously.
+- **Tools Used :** ROS, Gazebo, C++
+- [Link to code]() | [Link to report]()
+
 ### Deep RL Manipulator
+- **Category :** Robotics, Computer Vision
+- **Description :** Implemented a Deep Q-Learning algorithm to teach a 3DOF robot arm to grasp objects. 
+- **Tools Used :** ROS, Gazebo
+- - [Link to code]() | [Link to report]()
 
 ## 2018
 
 ### Mars Rover Computer Vision - Search, Sample, Return
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Category :** Robotics, Computer Vision
 - **Description :** Used various computer vision techniques to navigate martian environment in simulation and collect samples autonomously with a rover.
 - **Tools Used :** OpenCV, Unity
+- [Link to code]() | [Link to report]()
 
 ### Robot Arm Pick and Place Kinematics
 - **Category :** Robotics, Mathematics
 - **Description :** Implemented forward and inverse kinematics for a 3DOF Kuka arm robot arm to teach it to pick and place items in a scene.
 - **Tools Used :** ROS, Gazebo, Sympy
+- [Link to code]() | [Link to report]()
 
 ### 3D Robot Perception
 - **Category :** Machine Learning, Computer Vision
 - **Description :** Implemented a 3D point-cloud perception pipeline in ROS with the PR2 Robot to recognize objects in a scene using color-histograms and an SVM.
 - **Tools Used :** Point Cloud Library (PCL), Scikit-learn, ROS, Gazebo
+- [Link to code]() | [Link to report]()
 
 ### Follow Me Drone
 - **Category :** Deep Learning, Computer Vision
 - **Description :** Built a fully convolution neural network (FCNN) to segment a target in a crowded scene. Validated the algorithm on a drone simulator with synthetic environment.
 - **Tools Used :** Tensorflow, Keras, Unity
+- [Link to code]() | [Link to report]()
 
 ### Facial Expression Classification
 - **Category :** Deep Learning
