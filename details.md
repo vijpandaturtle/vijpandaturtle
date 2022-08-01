@@ -121,6 +121,10 @@
 
 ## 2018
 ### Where Am I ? Robot Localization
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
+- **Description :** Implemented a ROS pipeline to localize a custom robot in a synthetic indoor environment with the AMCL (Adaptive Monte Carlo Localization) algorithm.
+- **Tools Used :** ROS, Gazebo
+
 ### Map my world : 3D Visual SLAM
 ### Home Service Robot
 ### Deep RL Manipulator
@@ -149,21 +153,21 @@
 
 ### Facial Expression Classification
 - **Category :** Deep Learning
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Description :** Implemented a convolutional neural network from scratch to classify facial expressions.
 - **Tools Used :** Tensorflow Contrib
 
 ### Script Generation RNN
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Description :** Implemented an LSTM model to generate new diagloues for the Simpsons using the low level tensorflow API.
 - **Tools Used :** Tensorflow Contrib
 
 ### Celebrity Face Generation GAN
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Description :** Implemented a generative adversarial network to generate celebrity faces using the low level tensorflow API.
 - **Tools Used :** Tensorflow Contrib
 
 ### Neural Translation RNN Seq2Seq
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
+- **Category :** Deep Learning, NLP
+- **Description :** Implemented a sequence-to-sequence encoder decodet network to translate from french to english using the low level tensorflow API.
 - **Tools Used :** Tensorflow Contrib
 
