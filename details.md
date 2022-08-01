@@ -2,49 +2,69 @@
 
 ## 2022
 
+### Stress Detection with BCI
+- **Category :** Deep Learning, Signal Processing
+- **Description :** Built an end-to-end application to detect signals of stress from brain waves transmitted via an OpenBCI Ganglion 4-channel EEG headset and streamed to AWS Kinesis.Trained and deployed a PyTorch time-series model locally and as an AWS Sagemaker endpoint for scalability. Integrated the Spotify Web API with a front-end in Streamlit for mood based music recommendations.
+- **Tools Used :** Brainflow, Streamlit, PyTorch, AWS (IoT Core, Sagemaker, Kinesis, DynamoDB, Lambda), Spotipy
+- [Link to code]() | [Link to blog]()
+
+### Event Detection Violence
+- **Category :** Machine Learning, Computer Vision
+- **Description :** Detecting violent activity from CCTV footage with tree-based ensemble models. Used hummingbird library to convert model into a tensor representation and speed up inference time.
+- **Tools Used :** scikit-learn, Hummingbird, OpenCV, Pillow
+
 ### Visual Question Answering
+- **Category :** Multi-modal Deep Learning
 - **Description :** Developed a multi-modal question answering model using attention mechanism for an indoor VQA dataset using PyTorch.
 - **Tools Used :** PyTorch, Pillow, OpenCV
 - [Link to code]()
 
-### Event Detection Violence
+### Image and Video Superresolution
+- **Category :** Deep Learning, Generative Models
+- **Description :** Trained a custom webcam dataset to do real-time superresolution. 
+- **Tools Used :** PyTorch, OpenCV, Pillow
+
+### Fall Detection In an Indoor Setting
+- **Category :** Deep Learning, Computer Vision
+- **Description :** Built an end-to-end fall detection system using PyTorch and OpenCV. Trained transfer learning models like MobileNet and EfficientNet on a custom dataset with an accuracy of 90%.
+- **Tools Used :** PyTorch, OpenCV
+
+### Speech Emotion Recognition
+- **Category :** Deep Learning, Machine Learning, Big Data
+- **Description :** Built a front-end to push real-time audio to the cloud via a Kinesis stream. Developed a scalable PySpark pipeline to classify streaming audio data from Kinesis into different emotion categories.
+- **Tools Used :** PySpark, MLLib, PyTorch, Librosa
+
+### Multi-task Learning Autonomous Driving
+- **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** 
 - **Tools Used :**
 
-### Stress Detection with BCI
-- **Description :** Developed a multi-modal question answering model using attention mechanism for an indoor VQA dataset using PyTorch.
-- **Tools Used :** PyTorch, Pillow, OpenCV
-- [Link to code]() | [Link to blog]()
-
-### Image and Video Superresolution
-
-### Fall Detection In an Indoor Setting
-
-### Speech Emotion Recognition
-
-### Multi-task Learning Autonomous Driving
-
 ### AWS Smart Sprinkler Management Project
-9. RPC Game : Blockchain
-10. Implementing a basic blockchain
-11. Reuters News Classification 
+- **Category :** Cloud Computing
+- **Description :** Built a cloud-based pipeline for a smart sprinkler management system using AWS Services. Simulated control of 5 sprinklers based on the readings of 20 sensors at multiple locations.
+- **Tools Used :** AWS(IoT Core, S3, Kinesis, DynamoDB, SNS, Cloudformation)
+
+### RPS Game : Blockchain
+
+### Implementing a basic blockchain
 
 ## 2021 
-1. Tweet Sentiment Analysis
-2. Human trafficking analysis
-3. Brain tumor classification with Vision Transformers
-4. Article clickbait title classification
-6. Heuristic Based Shopping List curation
-7. DStar Algorithm for Robot Navigation
-8. Gradient Descent vs Newton's Method
-9. Smart Home MQTT
-10. AWS Patient Monitoring
-11. AWS Stock Price Notifier
-12. QML : Higgs Boson
+
+### Human trafficking analysis
+### Tweet Sentiment Analysis
+### Brain tumor classification with Vision Transformers
+### Article clickbait title classification
+### Heuristic Based Shopping List curation
+### DStar Algorithm for Robot Navigation
+### Gradient Descent vs Newton's Method
+### Smart Home MQTT
+### AWS Patient Monitoring
+### AWS Stock Price Notifier
 
 ## 2020 
-1. Quantum Machine Learning Convolutional neural network
-2. Epileptic Seizure Detection
+### Quantum Machine Learning Convolutional neural network
+### Epileptic Seizure Detection
+### COVID Voice Bot
 
 ## 2019
 1. Fetal Heart Segmentation
@@ -54,19 +74,19 @@
 5. SAC and DDPG
 
 ## 2018
-1. Where Am I ? Robot Localization
-2. Map my world : 3D Visual SLAM
-3. Home Service Robot
-4. Deep RL Manipulator
+### Where Am I ? Robot Localization
+### Map my world : 3D Visual SLAM
+### Home Service Robot
+### Deep RL Manipulator
 
 ## 2018
-1. Facial Expression Classification
-2. Script Generation RNN
-3. Celebrity Face Generation GAN
-4. Neural Translation RNN Seq2Seq
-5. Mars Rover Computer Vision
-6. Robot Arm Pick and Place
-7. PR2 Robot Perception
-8. Follow Me Drone
+### Facial Expression Classification
+### Script Generation RNN
+### Celebrity Face Generation GAN
+### Neural Translation RNN Seq2Seq
+### Mars Rover Computer Vision
+### Robot Arm Pick and Place
+### PR2 Robot Perception
+### Follow Me Drone
 
 
