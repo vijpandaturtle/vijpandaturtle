@@ -71,13 +71,13 @@
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a ETL and machine learning pipeline with a Flask front-end to classify tweets during the period of a natural disaster.
 - **Tools Used :** Scikit-learn
-- - [Link to code]()
+- [Link to code]()
 
 ### Brain tumor classification with Vision Transformers
 - **Category :** Deep Learning, Computer Vision
 - **Description :** Implemented a vision transformer from scratch to train and Brain tumor classification dataset. Also, evaluated pre-trained vision transformer with 2 other backbone models for improved performance.
 - **Tools Used :** Tensorflow, Keras
-- - [Link to code]()
+- [Link to code]()
 
 ### Article clickbait title classification
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
@@ -100,17 +100,19 @@
 - **Category :** Mathematics, Optimization
 - **Description :** Compared the performance of gradient descent and newton's method using benchmark objective functions.
 - **Tools Used :** Python
-- - [Link to code]()
+- [Link to code]()
 
 ### Smart Home MQTT
 - **Category :** Cloud Computing, IoT
 - **Description :** Implemented a smart home simulation where the devices talk to each other using MQTT via the Mosquitto broker.
 - **Tools Used :** Python, AWS, Mosquitto
+- [Link to code]()
 
 ### AWS Patient Monitoring
 - **Category :** Cloud Computing
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
+- [Link to code]()
 
 <!--### AWS Stock Price Notifier-->
 
@@ -139,6 +141,7 @@
 - **Category :** Deep Learning, Computer Vision, Medical Imaging
 - **Description :** Implemented a fetal heart segmentation model on real-world ultrasound data with the U-Net algorithm.
 - **Tools Used :** Tensorflow, OpenCV 
+- [Link to code]()
 
 3. OpenAI Gym Reinforcement learning
 4. Behavioral cloning
@@ -151,12 +154,14 @@
 - **Description :** Implemented a ROS pipeline to localize a custom robot in a synthetic indoor environment with the AMCL (Adaptive Monte Carlo Localization) algorithm.
 - **Tools Used :** ROS, Gazebo
 - [Link to code]() | [Link to report]()
+- [Link to code]()
 
 ### Map my world : 3D Visual SLAM
 - **Category :** Robotics, Computer Vision
 - **Description :** Built a home service robot using 3D visual SLAM (graph SLAM) that creates a mapped 3D environment of a room. 
 - **Tools Used :** ROS, Gazebo
 - [Link to code]() | [Link to report]()
+- [Link to code]()
 
 ### Home Service Robot
 - **Category :** Robotics, Computer Vision, SLAM, Path Planning
@@ -164,11 +169,12 @@
 - **Tools Used :** ROS, Gazebo, C++
 - [Link to code]() | [Link to report]()
 
+
 ### Deep RL Manipulator
 - **Category :** Robotics, Computer Vision
 - **Description :** Implemented a Deep Q-Learning algorithm to teach a 3DOF robot arm to grasp objects. 
 - **Tools Used :** ROS, Gazebo
-- - [Link to code]() | [Link to report]()
+- [Link to code]() | [Link to report]()
 
 ## 2018
 
@@ -200,19 +206,22 @@
 - **Category :** Deep Learning
 - **Description :** Implemented a convolutional neural network from scratch to classify facial expressions.
 - **Tools Used :** Tensorflow Contrib
+- [Link to code]()
 
 ### Script Generation RNN
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented an LSTM model to generate new diagloues for the Simpsons using the low level tensorflow API.
 - **Tools Used :** Tensorflow Contrib
+- [Link to code]()
 
 ### Celebrity Face Generation GAN
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Implemented a generative adversarial network to generate celebrity faces using the low level tensorflow API.
 - **Tools Used :** Tensorflow Contrib
+- [Link to code]()
 
 ### Neural Translation RNN Seq2Seq
 - **Category :** Deep Learning, NLP
 - **Description :** Implemented a sequence-to-sequence encoder decodet network to translate from french to english using the low level tensorflow API.
 - **Tools Used :** Tensorflow Contrib
-
+- [Link to code]()
