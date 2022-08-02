@@ -46,6 +46,7 @@
 - **Category :** Cloud Computing
 - **Description :** Built a cloud-based pipeline for a smart sprinkler management system using AWS Services. Simulated control of 5 sprinklers based on the readings of 20 sensors at multiple locations.
 - **Tools Used :** AWS(IoT Core, S3, Kinesis, DynamoDB, SNS, Cloudformation)
+- [Link to code]()
 
 <!-- ### RPS Game : Blockchain
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
@@ -68,25 +69,26 @@
 
 ### Tweet Sentiment Analysis
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Description :** Implemented a ETL and machine learning pipeline with a Flask front-end to classify tweets during the period of a natural disaster.
+- **Tools Used :** Scikit-learn
+- - [Link to code]()
 
 ### Brain tumor classification with Vision Transformers
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Category :** Deep Learning, Computer Vision
+- **Description :** Implemented a vision transformer from scratch to train and Brain tumor classification dataset. Also, evaluated pre-trained vision transformer with 2 other backbone models for improved performance.
+- **Tools Used :** Tensorflow, Keras
 - - [Link to code]()
 
 ### Article clickbait title classification
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Description :** Built a clickbait title classification pipeline using NLTK. Implemented dimensionality reduction and examined the performance of various text classification models with and without reduction.
+- **Tools Used :** Scikit-learn, NLTK
 - [Link to code]()
 
 ### Heuristic Based Shopping List curation
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Category :** AI, Optimization
+- **Description :** A simple shopping list curation problem solved with heuristic based method.
+- **Tools Used :** Python
 - [Link to code]()
 
 ### DStar Algorithm for Robot Navigation
@@ -96,14 +98,14 @@
 
 ### Gradient Descent vs Newton's Method
 - **Category :** Mathematics, Optimization
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Description :** Compared the performance of gradient descent and newton's method using benchmark objective functions.
+- **Tools Used :** Python
 - - [Link to code]()
 
 ### Smart Home MQTT
 - **Category :** Cloud Computing, IoT
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Description :** Implemented a smart home simulation where the devices talk to each other using MQTT via the Mosquitto broker.
+- **Tools Used :** Python, AWS, Mosquitto
 
 ### AWS Patient Monitoring
 - **Category :** Cloud Computing
