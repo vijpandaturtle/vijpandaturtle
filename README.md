@@ -14,12 +14,12 @@ I'm vij. I'm an Engineer, Grad Student@[Amrita Vishwa Vidyapeetham](https://www.
 -  🤹🏽‍♀️ My other interests : Writer, Indian classical Vocalist and a Certified Yoga Instructor.
 
 ### Skills
-- **Machine Learning** : Python, scikit-learn, pandas, seaborn, sympy, Pyspark, Tensorflow, Keras, PyTorch, Pennylane
-- **Robotics** : ROS, Gazebo, C++, Node-RED
-- **Web Development** : HTML/CSS/JS, NodeJS, Flask, Django, SQL, MySQL, Bootstrap, MongoDB
-- **Cloud Computing** : AWS(DynamoDB, IoT Core, EC2, ECS, Kinesis, Sagemaker)
-- **Tools** : Anaconda, Jira, Git, LaTeX
-- **Hardware** : Arduino, Raspberry-Pi, Jetson TX2, OpenBCI Ganglion
+- **Machine Learning :** Python, Anaconda, Numpy, Scipy, Scikit-learn, Pandas, Librosa, Plotly, Seaborn, PySpark, NLTK, OpenCV, Tensorflow, Keras, PyTorch
+- **Robotics :** ROS, Gazebo, C++, Point Cloud Library (PCL), Node-RED, CARLA
+- **Web Development :** HTML/CSS/JS, Bootstrap, Flask, Django, MySQL, MongoDB
+- **Cloud Computing :** AWS (DynamoDB, IoT Core, EC2, ECS, Kinesis, Sagemaker, CodeDeploy, CloudFormation)
+- **DevOps :** Git, Github, Jira, Docker, Kubernetes
+- **Hardware :** Arduino, Raspberry-Pi, Jetson TX2, OpenBCI Ganglion
 
 ![](https://raw.githubusercontent.com/vijpandaturtle/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
