@@ -11,7 +11,7 @@ I'm vij. I'm an Engineer, Grad Student@[Amrita Vishwa Vidyapeetham](https://www.
     * Teach a self-driving car to drive in a simulator (CARLA, Tensorflow) 
 - 😄 My Interests: R&D (Computer Vision, Autonomous Driving, Multi-task Learning) and Building ML/AI powered products. I have also done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
 - 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/).
--  🤹🏽‍♀️ My other interests : Writer, Indian classical vocalist and a Certified Yoga instructor.
+-  🤹🏽‍♀️ My other interests : Writer, Indian classical Vocalist and a Certified Yoga Instructor.
 
 ### Skills
 - **Machine Learning** : Python, scikit-learn, pandas, seaborn, sympy, Pyspark, Tensorflow, Keras, PyTorch, Pennylane
