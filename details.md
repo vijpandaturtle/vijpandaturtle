@@ -6,13 +6,13 @@
 - **Category :** Deep Learning, Signal Processing
 - **Description :** Built an end-to-end application to detect signals of stress from brain waves transmitted via an OpenBCI Ganglion 4-channel EEG headset and streamed to AWS Kinesis.Trained and deployed a PyTorch time-series model locally and as an AWS Sagemaker endpoint for scalability. Integrated the Spotify Web API with a front-end in Streamlit for mood based music recommendations.
 - **Tools Used :** Brainflow, Streamlit, PyTorch, AWS (IoT Core, Sagemaker, Kinesis, DynamoDB, Lambda), Spotipy
-- [Link to code]() | [Link to blog]()
+- [Link to code](https://github.com/vijpandaturtle/eeg-stress-companion) | [Link to blog]()
 
 ### Fall Detection In an Indoor Setting
 - **Category :** Deep Learning, Computer Vision
 - **Description :** Built an end-to-end fall detection system using PyTorch and OpenCV. Trained transfer learning models like MobileNet and EfficientNet on a custom dataset with an accuracy of 90%.
 - **Tools Used :** PyTorch, OpenCV
-- [Link to code]() | [Link to blog]()
+- [Link to code](https://github.com/vijpandaturtle/fall-detection-cv) | [Link to blog]()
 
 ### Speech Emotion Recognition
 - **Category :** Deep Learning, Machine Learning, Big Data
@@ -65,7 +65,7 @@
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
 - **Description :** Performed comprehensive data analysis for the human trafficking dataset on kaggle
 - **Tools Used :** Pandas, Plotly, Seaborn, Matplotlib
-- [Link to code]() | [Link to blog]()
+- [Link to code](https://github.com/vijpandaturtle/trafficking-analysis) | [Link to blog](https://oneeclectic.medium.com/understanding-human-trafficking-with-data-2860f6aa10ac)
 
 ### Tweet Sentiment Analysis
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
@@ -77,7 +77,7 @@
 - **Category :** Deep Learning, Computer Vision
 - **Description :** Implemented a vision transformer from scratch to train and Brain tumor classification dataset. Also, evaluated pre-trained vision transformer with 2 other backbone models for improved performance.
 - **Tools Used :** Tensorflow, Keras
-- [Link to code]()
+- [Link to code](https://github.com/vijpandaturtle/brain-tumor-classification)
 
 ### Article clickbait title classification
 - **Category :** Deep Learning, Multi-task Learning, Computer Vision
@@ -92,9 +92,9 @@
 - [Link to code]()
 
 ### DStar Algorithm for Robot Navigation
-- **Category :** Deep Learning, Multi-task Learning, Computer Vision
-- **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
-- **Tools Used :** PyTorch
+- **Category :** Algorithms
+- **Description :** Implemented the DStar path planning algorithm for robot navigation
+- **Tools Used :** Python
 
 ### Gradient Descent vs Newton's Method
 - **Category :** Mathematics, Optimization
@@ -106,13 +106,13 @@
 - **Category :** Cloud Computing, IoT
 - **Description :** Implemented a smart home simulation where the devices talk to each other using MQTT via the Mosquitto broker.
 - **Tools Used :** Python, AWS, Mosquitto
-- [Link to code]()
+- [Link to code](https://github.com/vijpandaturtle/smart-home-simulation-mqtt)
 
 ### AWS Patient Monitoring
 - **Category :** Cloud Computing
 - **Description :** Implemented a multi-task learning algorithm for simultaneously performing semantic segmentation and depth-estimation on a autonomous driving dataset.
 - **Tools Used :** PyTorch
-- [Link to code]()
+- [Link to code](https://github.com/vijpandaturtle/patient-monitoring-simulation-aws)
 
 <!--### AWS Stock Price Notifier-->
 
@@ -133,7 +133,7 @@
 - **Category :** Machine Learning, Deep Learning, Computer Vision
 - **Description :** Built an ML powered web app, to determine the likelihood of a person having COVID based on their vital parameters. Introduced a GAN based classification model and combined the predictions of the regression model with a chest x-ray classification model to provide a result.
 - **Tools Used :** Tensorflow, SQLite, Django, Scikit-learn
-- [Link to code]()
+- [Link to code](https://github.com/vijpandaturtle/covid-voice)
 
 ## 2019
 
@@ -153,22 +153,19 @@
 - **Category :** Robotics, Computer Vision
 - **Description :** Implemented a ROS pipeline to localize a custom robot in a synthetic indoor environment with the AMCL (Adaptive Monte Carlo Localization) algorithm.
 - **Tools Used :** ROS, Gazebo
-- [Link to code]() | [Link to report]()
-- [Link to code]()
+- [Link to code](https://github.com/vijpandaturtle/where_am_i) | [Link to report](https://github.com/vijpandaturtle/where_am_i/blob/master/localization.pdf)
 
 ### Map my world : 3D Visual SLAM
 - **Category :** Robotics, Computer Vision
 - **Description :** Built a home service robot using 3D visual SLAM (graph SLAM) that creates a mapped 3D environment of a room. 
 - **Tools Used :** ROS, Gazebo
-- [Link to code]() | [Link to report]()
-- [Link to code]()
+- [Link to code](https://github.com/vijpandaturtle/map_my_world) | [Link to report](https://github.com/vijpandaturtle/map_my_world/blob/master/SLAM_map_my_world.pdf)
 
 ### Home Service Robot
 - **Category :** Robotics, Computer Vision, SLAM, Path Planning
 - **Description :** Implemented a ROS pipeline to perform localization, 2D graph SLAM and path finding and planning using the Djikstra algorithm. The robot is able to transport objects from the source to the destination autonomously.
 - **Tools Used :** ROS, Gazebo, C++
-- [Link to code]() | [Link to report]()
-
+- [Link to code](https://github.com/vijpandaturtle/home_service_bot)
 
 ### Deep RL Manipulator
 - **Category :** Robotics, Computer Vision
