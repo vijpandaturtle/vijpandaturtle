@@ -3,7 +3,7 @@
 I'm an Engineer, Grad Student@[Amrita Vishwa Vidyapeetham](https://www.amrita.edu/campus/coimbatore/). Visit my website [here.](https://vijpandaturtle.github.io/) 
 
 - 🔭 I’m currently working on projects involving Deep Learning, Computer Vision and NLP.
-- 🌱 **What I've built so far** .. apps using Deep Learning that
+- 🌱 **What I've built so far** .. 
     * Detect stress using EEG signals from real BCI Hardware (LSTM, PyTorch)
     * Detect falls from video feed (MobileNetv2, PyTorch)
     * Detect violent activity from CCTV video feed (Hummingbird, Scikit-learn)
