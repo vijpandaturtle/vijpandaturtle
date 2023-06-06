@@ -1,6 +1,7 @@
 # Hi 👋, I'm Vijayasri (vij)
 
-I work as an AI Coach for the Pi School of AI. I'm also a Grad Student@Amrita Vishwa Vidyapeetham. Visit my website [here.](https://vijpandaturtle.github.io/) 
+I work as an AI Coach for the Pi School of AI. I'm also a Grad Student@Amrita Vishwa Vidyapeetham. 
+<!-- Visit my website [here.](https://vijpandaturtle.github.io/)  -->
 
 - 🔭 I’m currently working on projects involving Deep Learning, Computer Vision and NLP.
 - 🌱 **What I've built so far** .. 
@@ -10,7 +11,8 @@ I work as an AI Coach for the Pi School of AI. I'm also a Grad Student@Amrita Vi
     * Recognize emotion from speech (PySpark, PyTorch)
     * Teach a self-driving car to drive in a simulator (CARLA, Tensorflow) 
     * A home-service robot powered by ROS
-    * To view an exhaustive list of my projects, please click [here](https://github.com/vijpandaturtle/vijpandaturtle/blob/master/details.md).
+<!--     * To view an exhaustive list of my projects, please click [here](https://github.com/vijpandaturtle/vijpandaturtle/blob/master/details.md). -->
+    * My thesis : Multi-task Learning for Autonomous Driving
 - 😄 My Interests: AI for Good, R&D (Multi-task Learning, Multimodal Deep Learning), Building CV & NLP powered products. I have done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
 - 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/).
 -  🤹🏽‍♀️ My other interests : Writer, Indian classical Vocalist and a Certified Yoga Instructor.
