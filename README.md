@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vijayasri (vij)
 
-I work as an AI Coach for the Pi School of AI. I'm also a Grad Student@Amrita Vishwa Vidyapeetham. 
+I work as an AI Coach & Engineer for the Pi School of AI. 
 <!-- Visit my website [here.](https://vijpandaturtle.github.io/)  -->
 
 - 🔭 I’m currently working on projects involving Deep Learning, Computer Vision and NLP.
