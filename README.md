@@ -26,7 +26,7 @@ I work as an AI Coach & Machine Learning Engineer for the Pi School of AI.
 - **DevOps :** Git, Github, Jira, Docker, Kubernetes
 - **Hardware :** Arduino, Raspberry-Pi, Jetson TX2, OpenBCI Ganglion
 
-![](https://raw.githubusercontent.com/vijpandaturtle/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!--![](https://raw.githubusercontent.com/vijpandaturtle/github-stats/master/generated/overview.svg#gh-dark-mode-only)-->
 
 
 
