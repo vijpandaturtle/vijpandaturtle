@@ -15,7 +15,7 @@ I work as an AI Coach & Machine Learning Engineer for the Pi School of AI.
     * My thesis : Multi-task Learning for Autonomous Driving
 <!--     * To view an exhaustive list of my projects, please click [here](https://github.com/vijpandaturtle/vijpandaturtle/blob/master/details.md). -->
 - 😄 My Interests: AI for Good, R&D (Multi-task Learning, Multimodal Deep Learning), Building CV & NLP powered products. I have done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
-- 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [GitLab](https://gitlab.com/users/vijpandaturtle), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/).
+- 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/).
 -  🤹🏽‍♀️ My other interests : Writer, Indian classical Vocalist and a Certified Yoga Instructor.
 
 ### Skills
