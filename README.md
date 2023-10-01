@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vijayasri (vij)
 
-I work as an AI Coach & Machine Learning Engineer for the Pi School of AI.
+I work as an AI Coach & Data Scientist for the Pi School of AI.
 <!--Master's degree in AI from Amrita Vishwa Vidyapeetham.-->
 <!-- Visit my website [here.](https://vijpandaturtle.github.io/)  -->
 
