@@ -16,7 +16,7 @@ I work as a Machine Learning Scientist at Pi School.
 - **Web Development :** HTML/CSS/JS, Bootstrap, Flask, Django, MySQL, MongoDB
 - **Cloud Computing :** AWS (DynamoDB, IoT Core, EC2, ECS, Kinesis, Sagemaker, CodeDeploy, CloudFormation), GCP
 - **DevOps :** Git, Github, Jira, Docker, Kubernetes
-- **Hardware :** Arduino, Raspberry-Pi, Jetson TX2, OpenBCI Ganglion
+- **Hardware :** Raspberry-Pi, Jetson TX2, OpenBCI Ganglion
 
 <!--![](https://raw.githubusercontent.com/vijpandaturtle/github-stats/master/generated/overview.svg#gh-dark-mode-only)-->
 
