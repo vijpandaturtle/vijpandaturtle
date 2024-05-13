@@ -11,10 +11,10 @@ I work as a Machine Learning Scientist at Pi School.
 -  🤹🏽‍♀️ My other interests : Writer, Indian classical Vocalist and a Certified Yoga Instructor.
 
 ### Skills
-- **Machine Learning :** Python, Anaconda, Numpy, Scipy, Scikit-learn, Pandas, Librosa, Plotly, Seaborn, PySpark, HuggingFace, NLTK, OpenCV, Tensorflow, Keras, PyTorch, OpenAI Gym, Pennylane, OpenVINO
+- **Machine Learning :** Python, Anaconda, Scikit-learn, Pandas, Plotly, Seaborn, PySpark, HuggingFace, NLTK, OpenCV, Tensorflow, Keras, PyTorch, OpenAI Gym, Pennylane, OpenVINO
 - **Robotics :** ROS, Gazebo, C++, Point Cloud Library (PCL), Node-RED, CARLA
 - **Web Development :** HTML/CSS/JS, Bootstrap, Flask, Django, MySQL, MongoDB
-- **Cloud Computing :** AWS (DynamoDB, IoT Core, EC2, ECS, Kinesis, Sagemaker, CodeDeploy, CloudFormation)
+- **Cloud Computing :** AWS (DynamoDB, IoT Core, EC2, ECS, Kinesis, Sagemaker, CodeDeploy, CloudFormation), GCP
 - **DevOps :** Git, Github, Jira, Docker, Kubernetes
 - **Hardware :** Arduino, Raspberry-Pi, Jetson TX2, OpenBCI Ganglion
 
