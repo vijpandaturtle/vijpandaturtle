@@ -6,7 +6,7 @@ I work as a Machine Learning Scientist at Pi School.
 
 <!--     * To view an exhaustive list of my projects, please click [here](https://github.com/vijpandaturtle/vijpandaturtle/blob/master/details.md). -->
 - 😄 My Interests: Multimodal Deep Learning, LLMs, AI Safety & AI for Good. I have done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
-- 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Medium](https://vijayasriiyer.medium.com/).
+- 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Substack](https://mindsandai.substack.com/) and [Medium](https://vijayasriiyer.medium.com/).
 -  🤹🏽‍♀️ My other interests : Writer, Indian classical Vocalist and a Certified Yoga Instructor.
 
 ### Skills
