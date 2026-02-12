@@ -6,10 +6,10 @@ I work as a Machine Learning Scientist at Pi School.
 
 <!--     * To view an exhaustive list of my projects, please click [here](https://github.com/vijpandaturtle/vijpandaturtle/blob/master/details.md). -->
 - 😄 My Interests: Multimodal Deep Learning, LLMs, AI Safety & AI for Good. I have done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
-- 😄 Some of the past projects that I've led or contributed to as a part of my work:
-     - [Trallie](https://github.com/PiSchool/trallie/tree/main): A open-source simple modular LLM-based framework for Information Extraction.
-     - [SCEVA](https://github.com/esa-sceva): A open science initiative funded by the European Space Agency, to develop suite of dataset and domain specific LLMs, which aims to advance the use of Large Language Models (LLMs) for satellite communications.
-     - [EVE](https://github.com/eve-esa): An open science initiative funded by the European Space Agency’s Φ-lab, aimed at advancing the use of Large Language Models (LLMs) for the Earth Observation (EO) and Earth Science (ES) community.
+- Work projects that I've led or contributed to:
+     - [Trallie](https://github.com/PiSchool/trallie/tree/main) (Lead): A open-source simple modular LLM-based framework for Information Extraction.
+     - [SCEVA](https://github.com/esa-sceva) (Lead): A open science initiative funded by the European Space Agency, to develop suite of dataset and domain specific LLMs, which aims to advance the use of Large Language Models (LLMs) for satellite communications.
+     - [EVE](https://github.com/eve-esa) (Contributor): An open science initiative funded by the European Space Agency’s Φ-lab, aimed at advancing the use of Large Language Models (LLMs) for the Earth Observation (EO) and Earth Science (ES) community.
 - 📫 You can find me on [Google Scholar](https://scholar.google.com/citations?user=K_ST0dMAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/vijayasriiyer), [Substack](https://mindsandai.substack.com/) and [Medium](https://vijayasriiyer.medium.com/).
 -  🤹🏽‍♀️ My other interests : Writer, Indian classical Vocalist and a Certified Yoga Instructor.
 
