@@ -8,7 +8,7 @@ I work as a Machine Learning Scientist at Pi School.
 - 😄 My Interests: Multimodal Deep Learning, LLMs, AI Safety & AI for Good. I have done graduate level coursework in public policy, with a specialization in tech and policy. <!--You can find some of my related work [here](https://thenotsodistantfuture.substack.com/).-->
 - Work projects that I've led or contributed to:
      - [Trallie](https://github.com/PiSchool/trallie/tree/main) (Lead): A open-source simple modular LLM-based framework for Information Extraction.
-     - [SCEVA](https://github.com/esa-sceva) (Lead): A open science initiative funded by the European Space Agency, to develop suite of dataset and domain specific LLMs, which aims to advance the use of Large Language Models (LLMs) for satellite communications.
+     - [SCEVA](https://github.com/esa-sceva) (Co-Lead): A open science initiative funded by the European Space Agency, to develop suite of dataset and domain specific LLMs, which aims to advance the use of Large Language Models (LLMs) for satellite communications.
      - [EVE](https://github.com/eve-esa) (Contributor): An open science initiative funded by the European Space Agency’s Φ-lab, aimed at advancing the use of Large Language Models (LLMs) for the Earth Observation (EO) and Earth Science (ES) community.
 - Personal Projects
      - [Seesaw AI](https://github.com/vijpandaturtle/seesaw): An initiative and framework to make sense of neural networks of today. In active development.
